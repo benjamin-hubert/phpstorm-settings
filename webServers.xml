@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cdd39942-73da-45fa-9cff-f4a33aad6367" name="www.portboulognecalais.fr" url="http://devbox.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="05d532eb-59dd-401a-8072-e94028c69058" name="soad" url="http://alpixel.rocks">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
