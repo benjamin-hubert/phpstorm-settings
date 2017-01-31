@@ -403,4 +403,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="45388dd6-f793-4c86-9c58-a66c2ac59f7c" />
+    </phpunit_settings>
+  </component>
 </application>
