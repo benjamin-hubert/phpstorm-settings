@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping pattern="README" type="Markdown" />
+      <mapping pattern="console" type="PHP" />
       <mapping pattern="ExceptionListener" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
