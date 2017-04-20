@@ -1,0 +1,18 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Symfony\Component\Form\FormBuilderInterface.add(child,type,options)" />
+        <added pattern="\Doctrine\ORM\EntityManager.getRepository(entityName)" />
+        <added pattern="\Doctrine\ORM\EntityManager.getReference(entityName,id)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.setParameter(key,value,type)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.addSelect(select)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.from(from,alias,indexBy)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.select(select)" />
+        <added pattern="\Doctrine\ORM\Query\Expr.in(x,y)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.orderBy(sort,order)" />
+        <added pattern="\Symfony\Component\DependencyInjection\ContainerInterface.get(id,invalidBehavior)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
