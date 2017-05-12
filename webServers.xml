@@ -7,6 +7,9 @@
       <webServer id="05d532eb-59dd-401a-8072-e94028c69058" name="soad" url="http://alpixel.rocks">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="cd131549-ba03-4400-813e-a4da8541d6ec" name="Eskenazi" url="http://eskenazi.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
