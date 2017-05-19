@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="em" value="$entityManager = $this-&gt;get('doctrine.orm.entity_manager');" toReformat="true" toShortenFQNames="true">
+  <template name="em" value="$entityManager = $this-&gt;get('doctrine.orm.entity_manager');" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
