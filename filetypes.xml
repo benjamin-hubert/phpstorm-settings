@@ -5,6 +5,7 @@
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="ExceptionListener" type="PHP" />
+      <mapping pattern="ABCTransformationFailedException" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="test" type="PHP" />
