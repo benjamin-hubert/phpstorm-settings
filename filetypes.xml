@@ -19,7 +19,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="nagios" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="mocksess" type="PLAIN_TEXT" />
       <mapping ext="2php" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
