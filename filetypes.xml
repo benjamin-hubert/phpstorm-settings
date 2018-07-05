@@ -22,6 +22,7 @@
       <mapping ext="mocksess" type="PLAIN_TEXT" />
       <mapping ext="2php" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
