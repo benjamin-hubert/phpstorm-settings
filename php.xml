@@ -1,13 +1,13 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
-      <MessDetectorConfiguration />
       <phpmd_by_interpreter interpreter_id="45388dd6-f793-4c86-9c58-a66c2ac59f7c" tool_path="phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration />
       <phpcs_by_interpreter interpreter_id="45388dd6-f793-4c86-9c58-a66c2ac59f7c" tool_path="phpcs" />
     </phpcs_settings>
   </component>
