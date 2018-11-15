@@ -14,7 +14,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@homestead:22/usr/bin/php" id="45388dd6-f793-4c86-9c58-a66c2ac59f7c" name="Homestead PHP7.1" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="homestead" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="homestead" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
