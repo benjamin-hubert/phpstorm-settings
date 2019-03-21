@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="34483ce3-fe02-4b75-af17-eb724fd24bf4" type="Image" />
       <mapping pattern="generate_uuid" type="JavaScript" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
