@@ -13,7 +13,7 @@
       <webServer id="a200e681-9d66-446a-84e4-06017cecfe2a" name="creations.tivoly.dev" url="https://creations.tivoly.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="3e24a013-5bf1-49de-b3ac-d9e26bf8b57f" name="https://www.tirawa.dev" url="https://www.tirawa.dev">
+      <webServer id="3e24a013-5bf1-49de-b3ac-d9e26bf8b57f" name="local" url="http://127.0.0.1:8001">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
