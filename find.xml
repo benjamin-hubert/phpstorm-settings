@@ -20,5 +20,6 @@
     <mask>*twig</mask>
     <mask>*tpl.php</mask>
     <mask>*twig*</mask>
+    <mask>*Admin*</mask>
   </component>
 </application>
