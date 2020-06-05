@@ -14,6 +14,7 @@
       <mapping pattern="payum-model-3aivC7vr4puvWisjI5MKPa9AKlyeYqRX3R8DSzMt6ys" type="PLAIN_TEXT" />
       <mapping pattern=".gitnotignore" type="PLAIN_TEXT" />
       <mapping ext="twih" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
