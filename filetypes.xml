@@ -9,9 +9,10 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern=".gitnotignore" type="PLAIN_TEXT" />
+      <mapping pattern="MIGRATE_LP" type="PLAIN_TEXT" />
       <mapping pattern=".php-version" type="PLAIN_TEXT" />
       <mapping pattern="UPGRADE-SF3" type="PLAIN_TEXT" />
-      <mapping pattern=".gitnotignore" type="PLAIN_TEXT" />
       <mapping pattern="payum-model-3aivC7vr4puvWisjI5MKPa9AKlyeYqRX3R8DSzMt6ys" type="PLAIN_TEXT" />
       <mapping ext="twih" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
